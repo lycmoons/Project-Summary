@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\编程\\G-Forecast\\G-Forecast\\wwwroot\\Templates\\template.csv",
+      "PackagePath": "staticwebassets\\Templates\\template.csv"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.G-Forecast.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.G-Forecast.props",
+      "PackagePath": "build\\G-Forecast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.G-Forecast.props",
+      "PackagePath": "buildMultiTargeting\\G-Forecast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.G-Forecast.props",
+      "PackagePath": "buildTransitive\\G-Forecast.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
